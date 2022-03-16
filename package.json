@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-negative-binomial-logpmf",
-  "version": "0.0.6",
+  "version": "0.0.0",
   "description": "Natural logarithm of the probability mass function (PMF) for a negative binomial distribution.",
   "license": "Apache-2.0",
   "author": {
