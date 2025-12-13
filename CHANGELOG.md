@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-21)
+## Unreleased (2025-12-13)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`1122999`](https://github.com/stdlib-js/stdlib/commit/1122999e01e55ebd060cead63acfdfd89d01a72f) - **docs:** replace manual `for` loop in examples [(#9019)](https://github.com/stdlib-js/stdlib/pull/9019) _(by Harsh Yadav)_
 -   [`8635752`](https://github.com/stdlib-js/stdlib/commit/86357522033571bdb71ca96fff64c12f8fedb3c0) - **docs:** fix return values in TSDoc return annotation comments _(by Philipp Burckhardt)_
 -   [`e2efe32`](https://github.com/stdlib-js/stdlib/commit/e2efe32914d0d9dae5da34e6f7e7bf7655430710) - **chore:** rename exported variable in d.ts file to match name used in example code _(by Philipp Burckhardt)_
 -   [`776887e`](https://github.com/stdlib-js/stdlib/commit/776887e9577ae2402fd69c97328cb864811bd120) - **docs:** update annotation values _(by Philipp Burckhardt)_
@@ -44,9 +45,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Gopi Kishan
+-   Harsh Yadav
 -   Philipp Burckhardt
 
 </section>
