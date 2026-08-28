@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-12)
+## Unreleased (2026-08-28)
+
+<section class="features">
+
+### Features
+
+-   [`ff9f24a`](https://github.com/stdlib-js/stdlib/commit/ff9f24a58f6622074b4ea9eb893cdb8d1526b74a) - add C implementation for `stats/base/dists/negative-binomial/logpmf` [(#10132)](https://github.com/stdlib-js/stdlib/pull/10132)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`ff9f24a`](https://github.com/stdlib-js/stdlib/commit/ff9f24a58f6622074b4ea9eb893cdb8d1526b74a) - **feat:** add C implementation for `stats/base/dists/negative-binomial/logpmf` [(#10132)](https://github.com/stdlib-js/stdlib/pull/10132) _(by Nirmal Jyoti Biswas, Philipp Burckhardt)_
 -   [`7c88159`](https://github.com/stdlib-js/stdlib/commit/7c88159a9896362c2408622adff00be3eef14420) - **test:** migrate `stats/base/dists/negative-binomial/logpmf` to ULP-based assertions [(#14199)](https://github.com/stdlib-js/stdlib/pull/14199) _(by Athan Reines)_
 -   [`29f6a68`](https://github.com/stdlib-js/stdlib/commit/29f6a6888d2d653afc0f7ea8d81bb1872fb42780) - **bench:** refactor to use string interpolation in `stats/base/dists/negative-binomial` [(#10101)](https://github.com/stdlib-js/stdlib/pull/10101) _(by Shubham, Philipp Burckhardt)_
 -   [`6c08cf3`](https://github.com/stdlib-js/stdlib/commit/6c08cf3af7e3b88320f7bb153220328a0872c64e) - **bench:** refactor to use string interpolation in `stats/base/dists/negative-binomial` [(#10446)](https://github.com/stdlib-js/stdlib/pull/10446) _(by Vishal Gaikwad)_
@@ -26,9 +37,10 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Nirmal Jyoti Biswas
 -   Philipp Burckhardt
 -   Shubham
 -   Vishal Gaikwad
